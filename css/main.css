@@ -14,7 +14,6 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -22,11 +21,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em;
+font-family: 'Rokkitt', serif;
+font-size: 50px; }
+
 p { margin: 1em 0; 
-font-family: 'Cardo', serif;
+font-family: 'Lora', serif;
 font-size: 25px;
-line-height: 28px;}
+line-height: 1.4;
+width: 800px;}
 
 a         { color: #00a; }
 a:hover   { color: #000; }

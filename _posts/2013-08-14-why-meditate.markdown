@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Why Meditate?"
+date:   2013-08-14 18:00:47
+special: Myself
+categories: Self
+---
+
+Why meditate? Why sit still out somewhere in a possibly uncomfortable position and just breath in and out for tens of minutes. You could be doing a whole number of other activities – studying for school, chatting up friends, or getting more fit. Sure, there are an innumerable number of activities that would provide more tangible value for you than meditating, but meditation is special in that the benefit is not in the end, but also in the journey. Each time after meditation, the world just seems different to me, but the effect is hard to describe. Meditation reminds me of what is essentially myself. 
+
+During meditation, I let go of everything that is not immediately sensible. I focus only on the motion of my breath – an all-consuming in and out mixture. This teaches you about letting go, for a breath that is taken must also be released. Occasionally, I hear surrounding sounds, perhaps the the fluster of branches in the wind or the call of birds. But while they might have a sharp, immediate impact on my senses when they first come, they too, like everything else, eventually fade away into the backdrop of my breath. In my body, I feel. Meditation seems to be a radical reminder that I simply am. Through a quiescence of the mind, I am reminded that every part of my exists – I feel the coldness in my fingers, the slight curve of my back, and the hard touch of my foot against the Earth. It is funny that these essential things are the sensations I forget when I interact with the world everyday, for they are not deliberate. They are taken for granted. In meditation, everything is appreciated. Every small sensation. 
+
+Perhaps it is after meditation that I enjoy the most. As I open my eyes, I remember that I have forgotten everything about the outside world. For during meditation, all that existed was my breath. I was my breath and nothing more. After meditation, I am immediately reminded of the rest of my body. A flexing of the fingers reminds me of the novelty of having a hand, and as I stand up, I am entertained by the ability to walk. Everything is fresh. The greatest joy I have after meditation is that towards nature. The everyday trees, the common bush, and the plain flowers all seem different to me, as if they have taken on a more vibrant existence. It is not their colours that have become brighter – no it is a different dimension. For as I see nature through calmer eyes, I can see their beauty for in their transience and simply their existence. Nature simply exists, until it does not, and it embraces this with full gratitude. And perhaps it is this of Nature that I envy the most, for I aspire to do the same.

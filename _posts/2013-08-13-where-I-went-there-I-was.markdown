@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Where I went, There I was"
-date:   2013-03-12 18:00:47
+date:   2013-08-12 18:00:47
+special: a Traveller
 categories: Travelling Thoughts
 ---
 
